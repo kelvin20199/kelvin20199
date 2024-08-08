@@ -1,13 +1,15 @@
 <!-- Header with Anime GIF -->
+<!-- Header with Anime GIF -->
 <div style="display: flex; align-items: center; justify-content: center; background: radial-gradient(circle at center, #000428, #004e92); color: #ffffff; padding: 40px; font-family: 'Poppins', sans-serif; border-radius: 15px;">
-  <img src="[https://gifdb.com/images/high/anime-hero-stand-in-wind-5z5kndjwkfii3bm8.gif](https://github.com/kelvin20199/kelvin20199/blob/main/goku%20anime%20banner.gif)" alt="Anime Hero" style="width: 120px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 0 0 15px #00ffcc;">
-  <div>
+  <img src="https://github.com/kelvin20199/kelvin20199/blob/main/goku%20anime%20banner.gif" alt="Goku Anime Banner" style="width: 100%; max-width: 1725px; height: auto; border-radius: 10px; box-shadow: 0 0 15px #00ffcc;">
+  <div style="margin-left: 20px;">
     <h1 style="font-size: 3.5rem; font-weight: 900; background: linear-gradient(135deg, #00ffcc, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Hi there 👋, I'm Mainasploit
     </h1>
     <p style="font-size: 1.5rem;">Your Trusted <span style="color: #00ffcc; font-weight: bold;">Cybersecurity Engineer</span></p>
   </div>
 </div>
+
 
 <!-- About Me Section with Animated Typing Effect -->
 <div style="background-color: #121212; padding: 30px; border-radius: 15px; margin-top: 20px; color: #ffffff; font-family: 'Poppins', sans-serif;">
@@ -101,3 +103,13 @@
   @keyframes slideIn {
     0% { transform: translateX(-100%); opacity: 0; }
     100% { transform: translateX(0); opacity: 1; }
+  }
+
+  .flip-card {
+    background-color: transparent;
+    width: 250px;
+    height: 150px;
+    perspective: 1000px;
+  }
+
+  .flip-card-inner 
