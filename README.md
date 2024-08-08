@@ -1,6 +1,6 @@
 <!-- Header with Anime GIF -->
 <div style="display: flex; align-items: center; justify-content: center; background: radial-gradient(circle at center, #000428, #004e92); color: #ffffff; padding: 40px; font-family: 'Poppins', sans-serif; border-radius: 15px;">
-  <img src="https://gifdb.com/images/high/anime-hero-stand-in-wind-5z5kndjwkfii3bm8.gif" alt="Anime Hero" style="width: 120px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 0 0 15px #00ffcc;">
+  <img src="[https://gifdb.com/images/high/anime-hero-stand-in-wind-5z5kndjwkfii3bm8.gif](https://github.com/kelvin20199/kelvin20199/blob/main/goku%20anime%20banner.gif)" alt="Anime Hero" style="width: 120px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 0 0 15px #00ffcc;">
   <div>
     <h1 style="font-size: 3.5rem; font-weight: 900; background: linear-gradient(135deg, #00ffcc, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Hi there 👋, I'm Mainasploit
